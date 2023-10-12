@@ -7,7 +7,7 @@
         <link href="{{ url_for('static', filename='index.css') }}" rel="stylesheet">
         <script src="https://code.iconify.design/3/3.1.0/iconify.min.js"></script>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
-        <title>Calories Brunt Predictor</title>
+        <title>Calories Burnt Predictor</title>
     </head>
     <body class="bg-main relative h-full mt-20 pb-5">
         <div class="flex flex-col items-center h-full mt-5">
@@ -17,7 +17,7 @@
                     <span>Calories</span>
                 </div>
                 <div class="flex items-center space-x-3">
-                    <span>Brunt</span>
+                    <span>Burnt</span>
                     <span>Predictor</span>
                 </div>
             </div>
@@ -101,7 +101,7 @@
                 <div class="h-52 w-52">
                     <img class="h-full w-full" src="{{ url_for('static', filename='fire.png') }}" alt="" srcset="">
                 </div>
-                <span class="text-2xl font-semibold font-mono" id="result">You will burn 69 calories</span>
+                <span class="text-2xl font-semibold font-mono text-center" id="result">You will burn 69 calories</span>
                 <button onclick="closeModel()" class="h-10 p-1 w-10 flex-center absolute top-5 right-5 bg-black/50 rounded-full">
                     <span class="iconify h-8 w-8" data-icon="ep:close-bold"></span>
                 </button>

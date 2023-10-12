@@ -39,7 +39,7 @@ $("form").submit(function (e) {
                 $('#model').removeClass('!hidden')
                 spin = false;
                 changeClass($('#bt-txt'), $('#spin'), '!hidden');
-            }, 1500)
+            }, 1000)
         })
         .fail((e) => {
             console.log(e);
