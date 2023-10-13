@@ -6,11 +6,15 @@ A machine learning model to predict the number of calories burned after a workou
 It's a short-term internship group project
 
 
+## Video demonstration Gdrive link
+
+  https://drive.google.com/file/d/1-Hzb-y0R5k5pBcgQ0u8ebiP_lNxt-HEo/view?usp=drivesdk
 
 
 ## Live Demo Link
 
   https://calories-burnt-predictor.iamsdr.codes/
+
 
 
 ## Team Members
