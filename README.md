@@ -21,3 +21,8 @@ It's a short-term internship group project
 - [@Kishore](https://www.github.com/Saikishore11)
 - [@Saleem](https://www.github.com/Saleemshaik2002)
 
+
+## Web Ui
+
+![Alt title](static/input.png?raw=true "Title")
+![Alt title](static/result.png?raw=true "Title")
