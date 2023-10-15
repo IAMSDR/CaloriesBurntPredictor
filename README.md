@@ -16,7 +16,7 @@ It's a short-term internship group project
 
 ## Team Members
 
-- [@iamsdr](https://www.github.com/iamsdr) ( lead )
+- [@iamsdr](https://www.github.com/iamsdr) ( Lead )
 - [@Dileep](https://www.github.com/dileep990)
 - [@Kishore](https://www.github.com/Saikishore11)
 - [@Saleem](https://www.github.com/Saleemshaik2002)
