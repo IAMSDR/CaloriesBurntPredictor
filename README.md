@@ -24,5 +24,5 @@ It's a short-term internship group project
 
 ## Web Ui
 
-![Alt title](static/input.png?raw=true "Title")
-![Alt title](static/result.png?raw=true "Title")
+![Alt title](static/input.png?raw=true)
+![Alt title](static/result.png?raw=true)
