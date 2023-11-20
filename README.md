@@ -8,12 +8,7 @@ It's a short-term internship group project
 ## Live Demo Link
 
   https://calories-burnt-predictor.iamsdr.codes/
-
-## Video demonstration Gdrive link
-
-  https://drive.google.com/file/d/1-Hzb-y0R5k5pBcgQ0u8ebiP_lNxt-HEo/view?usp=drivesdk
-
-
+  
 ## Team Members
 
 - [@iamsdr](https://www.github.com/iamsdr) ( Lead )
